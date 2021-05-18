@@ -1,24 +1,9 @@
 # image-up-vue
 
-## Project setup
-```
-npm install
-```
+A simple image uploader project for uploading images.
+Images uploaded through this platform are stored on cloudinary.
+This is still a project in progress and intended functionalities include:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Authentication and Authorization.
+2. Social share (to be able to share image to some social media platforms)
+3. Images uploaded will be saved to cloudinary
